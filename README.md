@@ -14,3 +14,5 @@ Terdapat 2 mode :
   2. diklik (dibuat menu cepat agar bisa langsung diklik tanpa diketik)
   
 Sudah terdapat menu verifikasi status on/off. Bisa dibilang versi kecil dari Platform Smart Regency untuk menu Kendali.
+
+Program utama : botutama.py
