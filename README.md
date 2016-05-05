@@ -7,3 +7,8 @@ Jadi, dibuat alternatif akses sistemnya menggunakan Telegram.
 Hanya dalam semalam, ya semalam dan sehari esoknya.
 Waktu yang seharusnya dipakai untuk belajar persiapan UAS PKSD.
 Apa boleh buat, Arif tidak bisa diandalkan. 
+
+akun telegram bot : @rumah_aria_graha_bot
+
+Alhamdulillah sudah bisa dibuat keyboard kustom sehingga pengguna tinggal mengeklik menu yg diinginkan 
+tanpa harus mengetik manual.
