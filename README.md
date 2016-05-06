@@ -12,3 +12,5 @@ akun telegram bot : @rumah_aria_graha_bot
 
 Alhamdulillah sudah bisa dibuat keyboard kustom sehingga pengguna tinggal mengeklik menu yg diinginkan 
 tanpa harus mengetik manual.
+
+Program utama terdapat di botutama.py.
